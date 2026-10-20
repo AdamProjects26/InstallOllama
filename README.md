@@ -4,6 +4,8 @@ Let's be honest: setting up Ollama and downloading models via the terminal isn't
 
 **InstallOllama** is a simple, no-nonsense desktop app that handles the entire setup for you. You open it, click a few checkboxes, and it installs everything in the background while you grab a coffee.
 
+---
+
 ## 🤔 What does it actually do?
 
 * **Zero Terminal Needed:** You get a clean, dark-mode window instead of a scary command prompt.
